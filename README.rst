@@ -18,8 +18,8 @@ Physics
    | Steven Weinberg
 
 
-Lingustics
-==========
+Linguistics
+===========
 
 TODO
 
@@ -27,7 +27,12 @@ TODO
 Philosophy
 ==========
 
- TODO
+
+*  | **The Logic of Scientific Discovery**
+   | Karl R. Popper
+
+*  | **The Structure of Scientific Revolutions**
+   | Thomas S. Kuhn
 
 
 Human Biology
