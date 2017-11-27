@@ -1,7 +1,9 @@
 Mathematics
 ============
 
-TODO
+
+*  | **How Not to Be Wrong: The Hidden Maths of Everyday Life**
+   | Jordan Ellenberg 
 
 
 Physics
@@ -21,7 +23,7 @@ Physics
 Linguistics
 ===========
 
-TODO
+tba.
 
 
 Philosophy
