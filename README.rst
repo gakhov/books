@@ -48,6 +48,14 @@ Human Biology
    | Randolph M. Nesse, George C. Williams
    
    
+Human History
+=============
+
+
+*  | **Sapiens: A Brief History of Humankind**
+   | Yuval Noah Harari
+   
+   
 Economics
 =========
 
