@@ -46,6 +46,9 @@ Human Biology
 
 *  | **Why We Get Sick: The New Science of Darwinian Medicine**
    | Randolph M. Nesse, George C. Williams
+
+*  | **The Beautiful Cure**
+   | Daniel M. Davis
    
    
 Human History
